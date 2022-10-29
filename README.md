@@ -16,6 +16,6 @@
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  ![gif](https://user-images.githubusercontent.com/109535627/179665194-a3b129f4-0b2b-459f-a4f4-ba4ae67629a6.gif)
+
 
 </div>
