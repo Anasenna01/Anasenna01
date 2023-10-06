@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"Sou desenvolvedora Web Front-end em desenvolvimento kkk, estou realizando treinamentos e bootcamps nas plataformas DIO, Rocketseat e Curso em Video, me aprofundando mais na área WEB. Já ja teremos meu portifolio disponivel para visitas mas por enquanto estarei atualizando meu perfil no GitHub e mostrando um pouco do processo dos projetos no meu LinkdIn.
+"Sou Desenvolvedora Web Front-end em desenvolvimento kkk, estou realizando treinamentos e bootcamps nas plataformas DIO, Rocketseat e Curso em Video, me aprofundando mais na área WEB. Já já teremos meu portifolio disponivel para visitas mas por enquanto estarei atualizando meu perfil no GitHub e mostrando um pouco do processo dos projetos no meu LinkdIn.
 Meu email estará disponivel para qualquer dúvida!
 
 - 🔭 I’m working ...
