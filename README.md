@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+"Sou desenvolvedora Web Front-end em desenvolvimento kkk, estou realizando treinamentos e bootcamps nas plataformas DIO, Rocketseat e Curso em Video, me aprofundando mais na área WEB. Já ja teremos meu portifolio disponivel para visitas mas por enquanto estarei atualizando meu perfil no GitHub e mostrando um pouco do processo dos projetos no meu LinkdIn.
+Meu email estará disponivel para qualquer dúvida!
+
+- 🔭 I’m working ...
+
 
 <div align="center">
   <a href="https://github.com/anasenna01">
