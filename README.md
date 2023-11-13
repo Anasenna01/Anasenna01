@@ -9,12 +9,6 @@
 - 🚀 A BRAVE DEV IN DEVELOPMENT!!!
 ---
 
-<div align="center">
-  <a href="https://github.com/anasenna01">
-</div>
-<div style="display: inline_block"><br>
-
-
 <h3>Minhas Skills</h3>
 
 **Aplicações**
