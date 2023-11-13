@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  "Sou Desenvolvedora Web Front-end em desenvolvimento kkk, estou realizando treinamentos e bootcamps com experiência em criação de layouts personalizados para aprimorar a usabilidade e acessibilidade com criatividade e dedicação para o sucesso de projetos digitais.
+  "Sou Desenvolvedora Web em desenvolvimento kkk, estou realizando treinamentos e bootcamps com experiência em criação de layouts personalizados para aprimorar a usabilidade e acessibilidade com criatividade e dedicação para o sucesso de projetos digitais.
   Meu email estará disponivel para qualquer dúvida!
 </p>
 
