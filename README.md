@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/Anasenna01/Anasenna01/assets/109535627/1337d474-77fb-40bb-a39f-ea26e57abfd4" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/Anasenna01/Anasenna01/assets/109535627/e5686225-59de-47df-8f0c-8c686fe5a865" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   "Sou Desenvolvedora Web em desenvolvimento kkk, estou realizando treinamentos e bootcamps com experiência em criação de layouts personalizados para aprimorar a usabilidade e acessibilidade com criatividade e dedicação para o sucesso de projetos digitais.
